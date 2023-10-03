@@ -4,6 +4,7 @@ package one.digitalinnovation.gof.singleton;
  * Singleton "apressado".
  * 
  * @author falvojr
+ * atribui a instancia direto, sem verificação.
  */
 public class SingletonEager {
 
